@@ -1,7 +1,6 @@
 name: Работа в личном кабинете FulEx
 
 navbar-links:
-  Оформление забора с приходом: registration_cargo_pickup_cargo_acceptance.md
   Resources:
     - Оформление забора: 'https://fulexpro.github.io/measoft_client_docs/registration_cargo_pickup.html'
     - Learn markdown: "https://www.markdowntutorial.com/"
