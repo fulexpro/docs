@@ -1,6 +1,6 @@
 [Создание номенклатуры](nomenclature.md)
 
-[Оформление забора с приходом](registration_cargo_pickup_cargo_acceptance.md)
+[Оформление забора с последующей приемкой](registration_cargo_pickup_cargo_acceptance.md)
 
 [Оформление забора](registration_cargo_pickup.md)
 
