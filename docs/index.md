@@ -4,7 +4,7 @@
 
 [Оформление забора с последующей приемкой](registration_cargo_pickup_cargo_acceptance.md)
 
-[Оформление забора](registration_cargo_pickup.md)
+[Оформление забора с последующей доставкой готовых грузов до маркетплейса](registration_cargo_pickup.md)
 
 [Оформление прихода товара на склад Fulex](invoice.md)
 
