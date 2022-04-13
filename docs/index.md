@@ -1,6 +1,6 @@
 [Создание номенклатуры](nomenclature.md)
 
-[Оформление доставок готовых грузов до маркетплейсов](delivery_ready_mp.md)
+[Оформление доставки готовых грузов до маркетплейсов](delivery_ready_mp.md)
 
 [Оформление забора с последующей приемкой](registration_cargo_pickup_cargo_acceptance.md)
 
