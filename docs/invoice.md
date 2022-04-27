@@ -27,7 +27,7 @@
 ![deployed](img/deployed_data_receiver.png)
 
 
-## Данные о получателе
+### Данные о получателе
 
 ![pick_up_company](img/pick_up_company.png)
 
