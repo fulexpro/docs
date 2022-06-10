@@ -20,14 +20,13 @@
 ![delivery_fulex](img/delivery_fulex.png) 
 ### Город получателя
 Город, где располагается Пункт выдачи заказов (самовывоза) FuLEx
-![receiver](img/delivery_city_moscow.png)
+![receiver](img/delivery_city_pokrov.png)
 ### Вид доставки
 Выберите из раскрывающегося списка в поле "Вид доставки", а именно ФУЛЕКС САМОВЫВОЗ.
-![pick_up_select](img/pick_up_select.png)
-
+![pick_up_select](img/pick_up_select_pokrov.png)
 ### Данные о получателе
 
-![pick_up_company](img/pick_up_company.png)
+![pick_up_company](img/pick_up_company2.png)
 
 - **Адрес и индекс получателя** заполняется автоматически после выбора ПВЗ;
 - **Компания** - название компании получателя, если заказ заберет частное лицо, напишите просто ЧАСТНОЕ ЛИЦО;

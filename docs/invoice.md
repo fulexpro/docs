@@ -20,17 +20,14 @@
 
 ### Город получателя
 Город, где располагается Пункт приема товара FuLEx
-![receiver](img/delivery_city_moscow.png)
-
+![receiver](img/delivery_city_pokrov.png)
 ### Вид доставки
 Выберите из раскрывающегося списка в поле "Вид доставки - ПВЗ" - ФУЛЕКС ПРИЕМКА.
-![deployed](img/deployed_data_receiver.png)
-
+![deployed](img/deployed_data_receiver_pokrov.png)
 
 ### Данные о получателе
 
-![pick_up_company](img/pick_up_company.png)
-
+![pick_up_company](img/pick_up_company2.png)
 - **Адрес и индекс получателя** заполняется автоматически после выбора ПВЗ ФУЛЕКС ПРИЕМКА;
 - **Компания** - название компании получателя, конечно - FuLEx;
 - **ФИО получателя** - не имеет значение, но заполнить надо, поэтому напишите - Сотрудник склада;
