@@ -5,5 +5,7 @@ varsPreset: external
 docs-viewer:
     project-name: fulex-docs
     logo-title: FULEX
-    favicon-src: https://docs.fulex.pro.storage.yandexcloud.net/_assets/icon.svg
+    favicon-src: https://docs.fulex.pro.storage.yandexcloud.net/_assets/favicon.svg
+    logo-src: https://docs.fulex.pro.storage.yandexcloud.net/_assets/logo_white_50.svg
+    logo-dark-src: https://docs.fulex.pro.storage.yandexcloud.net/_assets/logo_white.svg
     no-index: true
