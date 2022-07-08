@@ -16,7 +16,7 @@ jobs:
     - name: Install YFM
       run: npm i @doc-tools/docs -g
     - name: Build
-      run: yfm --strict -i . -o ../docs-gen
+      run: yfm --strict -i ./ru -o ./docs-gen
     - name: Publish
       uses: nekitcorp/yandex-storage-website-action@v1
       with:
