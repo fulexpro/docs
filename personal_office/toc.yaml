@@ -1,0 +1,29 @@
+title: Личный кабинет
+href: index.yaml
+items:
+  - name: Пошаговые инструкции
+    items:
+      - name: Все инструкции
+        href: operations/index.md
+      - name: Оформление заказа
+        items:
+          - name: Оформление доставки готовых грузов до маркетплейсов
+            href: operations/orders/delivery_ready_mp.md
+          - name: Оформление забора с последующей приемкой
+            href: operations/orders/registration_cargo_pickup_cargo_acceptance.md
+          - name: Оформление забора с последующей доставкой готовых грузов до маркетплейса
+            href: operations/orders/registration_cargo_pickup.md
+          - name: Оформление прихода товара на склад
+            href: operations/orders/invoice.md
+          - name: Оформление заявки на самовывоз
+            href: operations/orders/pickup.md
+          - name: Оформление доставки через транспортную компанию
+            href: operations/orders/transport_company.md
+          - name: Оформление доставки до маркетплейсов (FBO)
+            href: operations/orders/delivery_mp.md
+          - name: Оформление доставки до маркетплейсов (FBS)
+            href: operations/orders/delivery_fbs.md
+      - name: Создание номенклатуры
+        href: operations/nomenclature.md
+      - name: Передвижение товара внутри склада
+        href: operations/movement.md

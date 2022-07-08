@@ -1,0 +1,9 @@
+allowHTML: true
+apply-presets: true
+varsPreset: external
+
+docs-viewer:
+    project-name: fulex-docs
+    logo-title: FULEX
+    favicon-src: https://docs.fulex.pro.storage.yandexcloud.net/_assets/icon.svg
+    no-index: true
