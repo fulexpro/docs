@@ -27,3 +27,13 @@ items:
         href: operations/nomenclature.md
       - name: Передвижение товара внутри склада
         href: operations/movement.md
+      - name: Интеграция
+        items:
+          - name: Интеграция
+            href: operations/orders/integration.md
+          - name: Интеграция по передаче заказов Wildberries - FuLEx
+            href: operations/orders/integration_wb.md
+          - name: Интеграция по передаче заказов Ozon - FuLEx
+            href: operations/orders/integration_ozon.md
+      - name: Отгрузочные ярлыки и Акт приема-передачи
+        href: operations/orders/label_delivery.md
