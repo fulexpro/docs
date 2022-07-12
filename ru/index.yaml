@@ -1,11 +1,6 @@
 title: Документация Fulex
 description: Описание разделов документации
-meta:
-  title: Yandex Cloud
-  noIndex: true
 links:
   - title: Работа в личном кабинете
     description: Описание первого раздела
     href: personal_office/
-  - title: Использование Ассистента
-    description: Описание первого раздела
